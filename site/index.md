@@ -40,6 +40,6 @@ SkillBoost 쇼핑몰의 7일 누적 실습을 위한 기반을 만듭니다. SSH
 
 ## D 전체 토폴로지
 
-![관리 화면과 아웃바운드 SSM 경로를 구분한 cap 클러스터 구성](/home/grapefruit/cap-cluster-lab02/site/assets/topology.png)
+![관리 화면과 아웃바운드 SSM 경로를 구분한 cap 클러스터 구성](/home/grapefruit/cap-cluster-lab/site/assets/topology.png)
 
 [① 인프라 준비부터 시작하기](lab02-step1.html)
